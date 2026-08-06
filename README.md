@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Vaishnavi290107/Leetcode/tree/master/0877-stone-game) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Vaishnavi290107/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vaishnavi290107/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Vaishnavi290107/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vaishnavi290107/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
@@ -97,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/Vaishnavi290107/Leetcode/tree/master/0704-binary-search) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Vaishnavi290107/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
