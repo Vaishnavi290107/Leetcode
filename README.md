@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/Vaishnavi290107/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vaishnavi290107/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0164-maximum-gap](https://github.com/Vaishnavi290107/Leetcode/tree/master/0164-maximum-gap) |
 | [0605-can-place-flowers](https://github.com/Vaishnavi290107/Leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vaishnavi290107/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Vaishnavi290107/Leetcode/tree/master/0704-binary-search) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Vaishnavi290107/Leetcode/tree/master/0018-4sum) |
+| [0164-maximum-gap](https://github.com/Vaishnavi290107/Leetcode/tree/master/0164-maximum-gap) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vaishnavi290107/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vaishnavi290107/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vaishnavi290107/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -102,4 +104,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Vaishnavi290107/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Vaishnavi290107/Leetcode/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Vaishnavi290107/Leetcode/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Vaishnavi290107/Leetcode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
