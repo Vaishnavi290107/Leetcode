@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Vaishnavi290107/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Vaishnavi290107/Leetcode/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/Vaishnavi290107/Leetcode/tree/master/0877-stone-game) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Vaishnavi290107/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vaishnavi290107/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/Vaishnavi290107/Leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vaishnavi290107/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Vaishnavi290107/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vaishnavi290107/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Vaishnavi290107/Leetcode/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
@@ -116,4 +118,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Vaishnavi290107/Leetcode/tree/master/0164-maximum-gap) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Vaishnavi290107/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 <!---LeetCode Topics End-->
